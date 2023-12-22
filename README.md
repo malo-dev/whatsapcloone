@@ -1,37 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Name
+**Whatsapp clone **
 
-## Getting Started
+## Author's Details
+Name: *Leader Mushio*
 
-First, run the development server:
+Email: *leadermushio377@gmail.com*
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tel: *+243977624084.*
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##  Requirements
+*   vous devez avoir ceci : `vs code `, `npm package`, `pnpm package`.
+*   Vous devez aussi installer : `next ts `, `typescript`, `tailwind`.
+*   Connaissance en : `HTML `, `CSS`, `JAVASCRIPT`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+##  More Info
+*   Please use this data structure for this project:
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Project Description
+IL s'agit d'un simple projet pour ameliorer mes compétences en tant que specialiste frontend en web et en mobile .
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Dans ce projet j'ai utilisé plusieurs technologies front end que vous connaissez peut etre car c'est l'une des techs en frontend** 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Collaborate
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# whatsapcloone
+To collaborate, reach me through my email address  leadermushio377@gmail.com.
