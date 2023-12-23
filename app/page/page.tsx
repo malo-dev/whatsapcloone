@@ -1,6 +1,5 @@
-import HeaderComponent from '@/components/headerComponent'
-import Navbarofwhatsapp from '@/components/navBarComponent/Navbarofwhatsapp'
 import React from 'react'
+import NavigationLayout from '../Layout/headerAndNavigationLayout/layout'
 
 interface Props {
 	
@@ -9,8 +8,9 @@ interface Props {
 const page = (props: Props) => {
 	return (
 		<div>
-			<HeaderComponent title='Whatsapp clone' />
-			<Navbarofwhatsapp/>
+			<NavigationLayout>
+				<p></p>
+			</NavigationLayout>
 		</div>
 	)
 }
