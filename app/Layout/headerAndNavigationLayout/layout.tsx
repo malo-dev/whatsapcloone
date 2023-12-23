@@ -8,7 +8,7 @@ export default function NavigationLayout({
 }) {
   return (
     <section>
-      <div>
+      <div className="bg-[#232D36] p-4 fixed w-full z-[300px] ">
         <HeaderComponent title="Whatsapp clone" />
         <Navbarofwhatsapp />
       </div>

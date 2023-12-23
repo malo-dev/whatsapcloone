@@ -8,7 +8,7 @@ interface Props {
 
 const HeaderComponent = (props: Props) => {
 	return (
-    <header className={`${styleHeaderComponent.styleHeader} m-6`}>
+    <header className={`${styleHeaderComponent.styleHeader}  `}>
       <p className=''>{props.title}</p>
       <div className={`${styleHeaderComponent.styleHeader} gap-2 `}>
         <IoCameraOutline size={25}  />

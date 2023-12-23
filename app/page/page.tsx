@@ -1,15 +1,11 @@
 import React from 'react'
 import NavigationLayout from '../Layout/headerAndNavigationLayout/layout'
-
-interface Props {
-	
-}
-
-const page = (props: Props) => {
+import BodyOfPromPage from '@/components/promouvoir/bodyOfPromPage'
+const page = () => {
 	return (
 		<div>
 			<NavigationLayout>
-				<p></p>
+				<BodyOfPromPage/>
 			</NavigationLayout>
 		</div>
 	)

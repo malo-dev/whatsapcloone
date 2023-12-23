@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 *{
-  background-color: #18252D ;
+  /* background-color: #18252D ; */
   min-height: auto;
+}
+.min{
+   min-height: auto;
 }

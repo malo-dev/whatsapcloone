@@ -1,6 +1,7 @@
 import React from 'react'
 import { MdOutlineCases } from "react-icons/md";
 import { styleHeaderComponent } from '../headerCompoen/librairie';
+import { CallbackNavFunc } from './librairieFunc';
 const dataNavbar = [
   {
     icon: <MdOutlineCases />,
@@ -10,7 +11,7 @@ const dataNavbar = [
   {
     icon: "",
     label: "Discussions",
-    numberofmessage: 21,
+    numberofmessage: "",
   },
   {
     icon: "",
@@ -24,18 +25,15 @@ const dataNavbar = [
   },
 ];
 
-const Navbarofwhatsapp = () => {
+const Navbarofwhatsapp = (callableFunc : any) => {
 	return (
-    <div className={`${styleHeaderComponent.styleHeader} opacity-80 text-[20px] m-3 font-bold`}>
+    <div className={`${styleHeaderComponent.styleHeader} opacity-80 text-[20px] mt-6 font-bold`}>
       {dataNavbar.map((items, keyindex) => {
         return (
-          <div
-            key={keyindex}
-            className="active:text-green-500"
-          >
+          <div key={keyindex} className="">
             {items.icon}{" "}
             <li
-              className={`list-none ${styleHeaderComponent.styleHeader} opacity-70 text-[20px]`}
+              className={`list-none ${styleHeaderComponent.styleHeader} cursor-pointer  hover:text-[#0CA996] opacity-70 text-[20px]`}
             >
               <ul>{items.label}</ul>
               <ul>{items.numberofmessage}</ul>

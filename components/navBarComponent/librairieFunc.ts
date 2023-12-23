@@ -1,9 +1,9 @@
-export const CallbackNavFunc = (itemOfLink : string,callbackComponent : any ) => {
+export const CallbackNavFunc = (itemOfLink : string ) => {
 	itemOfLink === "Discussions"
-    ? callbackComponent
+    ? "/discussions"
     : itemOfLink === "Actus"
-    ? callbackComponent
+    ? "/actus"
     : itemOfLink === "Appels"
-    ? callbackComponent
+    ? "/appels"
     : "/";
 }

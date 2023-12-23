@@ -1,0 +1,1 @@
+export const styleProm = "bg-[#101D25] h-full w-full relative top-[120px] z-[10px]  font-bold p-4 text-[#D3DAE0]";
