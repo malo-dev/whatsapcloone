@@ -16,6 +16,8 @@ Tel: *+243977624084.*
 
 ##  More Info
 *   Please use this data structure for this project:
+*   `et surtou notons que le nombre maximale de ligne de code est de 50 ligne de codes `
+*   `ce projet est fait des ligne de code maintenable et adaptable à l'evolution du  projet `
 
 
 ## Project Description
